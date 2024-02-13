@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ef481ef-67d1-4b19-8de2-024fa53ba9a1" name="Changes" comment="Adding script function">
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1ef481ef-67d1-4b19-8de2-024fa53ba9a1" name="Changes" comment="Adding multiple files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +39,7 @@
     "Python.functions.executor": "Run",
     "Python.list.executor": "Run",
     "Python.loops.executor": "Run",
+    "Python.multiple.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -208,12 +199,29 @@
       <option name="project" value="LOCAL" />
       <updated>1707660210279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding multiple files">
+      <option name="closed" value="true" />
+      <created>1707803291430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707803291430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding multiple files">
+      <option name="closed" value="true" />
+      <created>1707803302694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707803302694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding script function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding script function" />
+    <MESSAGE value="Adding multiple files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding multiple files" />
   </component>
 </project>
